@@ -10,21 +10,29 @@ body{
 	border-radius: 12px;
 }
 
+#currencyUS{
+	background-color: #9b1c2c;
+	color: #041E42;
+	border-radius: 12px;
+}
+
 #US:hover{
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
-#Canada{
+#Canada, #currencyCanada{
 	background-color: #D80621;
 	color: #FFFFFF;
 	border-radius: 12px;
 }
 
+
+
 #Canada:hover{
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
-#Europe{
+#Europe, #currencyEurope{
 	background-color: #003399;
 	color: #FFCC00;
 	border-radius: 12px;
@@ -34,7 +42,7 @@ body{
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
-#England{
+#England, #currencyEngland{
 	background-color: #012169;
 	color: #C8102E;
 	border-radius: 12px;
@@ -44,7 +52,7 @@ body{
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
-#India{
+#India, #currencyIndia{
 	background-color: #FF9933;
 	color: #138808;
 	border-radius: 12px;
@@ -54,7 +62,7 @@ body{
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
-#China{
+#China, #currencyChina{
 	background-color: #EE1C25;
 	color: #FFFF00;
 	border-radius: 12px;
@@ -64,7 +72,7 @@ body{
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
-#Japan{
+#Japan, #currencyJapan{
 	background-color: #FFFFFF;
 	color: #BC002D;
 	border-radius: 12px;
